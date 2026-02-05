@@ -21,4 +21,4 @@ This application focuses only on the user interface and does not include network
 This project was created for learning Flutter development, UI design, and page navigation concepts.
 
 ## Author
-Your Name
+Priyanshi Varma
